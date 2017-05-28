@@ -1,0 +1,42 @@
+body{
+    background-color: #ecf0f1;
+}
+
+.jumbotron{
+    padding: 20%;
+    background-color: #ecf0f1;
+}
+
+.btn-default{
+    border-radius: 0px;
+    background-color: #95a5a6;
+    color: black;
+}
+
+.con{
+    margin-top: 50px;
+}
+
+.conn{
+	margin: 20px 20%;
+}
+
+.form-control {
+	border-radius: 0px;
+}
+
+#imaginary_container{
+    margin-top:20%; /* Don't copy this */
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
